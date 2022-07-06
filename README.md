@@ -10,11 +10,11 @@
   
   ### 🧐 More About Me:
   
-  - 🔭 I’m currently working on **GSSOC projects**.
-  - 🌱 I’m currently **learning Back-end dev**. 
+  - 🔭 I’m currently working on **web dev prjoect using MERN**.
+  - 🌱 I’m currently **learning Blockchain development**. 
   - 📫 How to reach me:
   <a href="mailto:sahilsingh1221177@gmail.com"> sahilsingh1221177@gmail.com </a>
-  - ⚡ Fun fact: I love to do **video editing**.
+  - ⚡ Fun fact: I love to do **video editing** and **playing PC games**.
 
 
 
