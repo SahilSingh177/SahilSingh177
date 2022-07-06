@@ -18,15 +18,6 @@
 
 
 
-<a href="https://th.bing.com/th/id/OIP.UAMEvud_KPgCX8oKr_SUdwHaE8?w=258&h=180&c=7&r=0&o=5&pid=1.7">
-  <img
-    align="right"
-    src="https://th.bing.com/th/id/OIP.UAMEvud_KPgCX8oKr_SUdwHaE8?w=258&h=180&c=7&r=0&o=5&pid=1.77"
-    width="400"
-    height="300"
-  />
-</a><br>
-
 ### 🔗Connect with me
 <p align="left">
 <a href="https://twitter.com/SahilSi68634530r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sahil Singh" height="30" width="40" /></a>
