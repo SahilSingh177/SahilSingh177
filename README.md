@@ -10,7 +10,7 @@
   
   ### 🧐 More About Me:
   
-  - 🔭 I’m currently working on **web dev prjoect using MERN**.
+  - 🔭 I’m currently working on **building a smart contract using Solidity**.
   - 🌱 I’m currently **learning Blockchain development**. 
   - 📫 How to reach me:
   <a href="mailto:sahilsingh1221177@gmail.com"> sahilsingh1221177@gmail.com </a>
