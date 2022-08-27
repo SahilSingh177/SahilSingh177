@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7710F&size=26&duration=6000&center=true&lines=Hi%2C+I+am+Sahil+Singh.;I'm+a+big+fan+of++web+dev;and++Competitive+Programming.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7710F&size=26&duration=6000&center=true&lines=Hi%2C+I+am+Sahil+Singh.;I'm+a+big+fan+of++web+dev;Blockchain;and++Competitive+Programming.)](https://git.io/typing-svg)
 <br>
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
