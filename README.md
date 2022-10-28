@@ -5,7 +5,7 @@
   I am a second-year B.Tech Computer Science student at the Indian Institute of
   Information Technology in Lucknow. I enjoy learning new technology and am capable
   of doing so rapidly. I’ve been actively contributing to many projects as well as took part in many open source events,
-  and I’m looking forward to learn a lot from this community in the future.
+  and I’m looking forward to learn a lot from this community.
   <br />
   
   ### 🧐 More About Me:
