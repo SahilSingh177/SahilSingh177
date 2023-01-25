@@ -1,20 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7710F&size=26&duration=6000&center=true&lines=Hi%2C+I+am+Sahil+Singh.;I'm+a+big+fan+of++web+dev;Blockchain;and++Competitive+Programming.)](https://git.io/typing-svg)
-<br>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-  I am a second-year B.Tech Computer Science student at the Indian Institute of
-  Information Technology in Lucknow. I enjoy learning new technology and am capable
-  of doing so rapidly. I’ve been actively contributing to many projects as well as took part in many open source events,
-  and I’m looking forward to learn a lot from this community.
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Sahil Singh. 
+
+<b> I am a full Stack Web Developer with a passion for open source and a drive to solve problems. </b> <br />  
+  <br> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/96344003/214637120-b8b0a72b-b530-489d-a3cf-d257613db0c5.gif" >
+</div>
+  <br/>
+  
+- Skilled in a variety of technologies, including JavaScript, Node.js, React, Python and blockchain platforms such as Ethereum. <br />
+- Experience with both front-end and back-end development, as well as database management. <br />
+- Strong understanding of web development and open-source principles, with some knowledge of blockchain technology and a commitment to creating performant, accessible, and user-friendly decentralized applications.
   <br />
   
-  ### 🧐 More About Me:
-  
-  - 🔭 I’m currently working on **enhancing my web development skills in new technology**.
-  - 🌱 I’m currently **learning NextJS**. 
-  - 📫 How to reach me:
-  <a href="mailto:sahilsingh1221177@gmail.com"> sahilsingh1221177@gmail.com </a>
-  - ⚡ Fun fact: I love to do **video editing** and **playing PC games**.
+   <b>I am excited to contribute to open source projects and collaborate with other developers to create innovative solutions. Always eager to learn and grow and am looking for opportunities to take on new challenges and improve my skills in the blockchain and web development space. </b>
+   
+   
+### 🧐 More About Me:
+
+- 🌱 I’m currently **contributing in Zulip**. 
+- 📫 How to reach me:
+<a href="mailto:sahilsingh1221177@gmail.com"> sahilsingh1221177@gmail.com </a>
+- ⚡ Fun fact: *I finished Marvel's SpiderMan complete game in 6 days*.
 
 
 
