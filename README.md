@@ -8,7 +8,7 @@
 </div>
   <br/>
   
-- Skilled in a variety of technologies, including JavaScript, Node.js, React, Python and blockchain platforms such as Ethereum. <br />
+- Skilled in a variety of technologies, including JavaScript, Next.js, Neo4j, Node.js, Python and blockchain platforms such as Ethereum. <br />
 - Experience with both front-end and back-end development, as well as database management. <br />
 - Strong understanding of web development and open-source principles, with some knowledge of blockchain technology and a commitment to creating performant, accessible, and user-friendly decentralized applications.
   <br />
@@ -18,7 +18,7 @@
    
 ### 🧐 More About Me:
 
-- 🌱 I’m currently **contributing in Zulip**. 
+- 🌱 I’m currently **working on a project**. 
 - 📫 How to reach me:
 <a href="mailto:sahilsingh1221177@gmail.com"> sahilsingh1221177@gmail.com </a>
 - ⚡ Fun fact: *I finished Marvel's SpiderMan complete game in 6 days*.
