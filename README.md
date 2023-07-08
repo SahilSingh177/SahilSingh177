@@ -35,7 +35,7 @@
   </p><br>
   
 ### 🔨 Languages and Tools:
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,bootstrap,bash,docker,express,firebase,git,github,linux,mongodb,discord,mysql,nextjs,nodejs,py,react,solidity,ts)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,bootstrap,bash,tailwind,docker,express,firebase,git,github,linux,mongodb,discord,mysql,nextjs,nodejs,py,react,solidity,ts)](https://skillicons.dev)
 </p> 
 <br>
 
