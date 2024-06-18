@@ -18,7 +18,7 @@
    
 ### 🧐 More About Me:
 
-- 🌱 I’m currently **working on a project**. 
+- 🌱 I’m currently **working on LLMs**. 
 - 📫 How to reach me:
 <a href="mailto:sahilsingh1221177@gmail.com"> sahilsingh1221177@gmail.com </a>
 - ⚡ Fun fact: *I finished Marvel's SpiderMan complete game in 6 days*.
