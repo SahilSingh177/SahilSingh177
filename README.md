@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Sahil Singh. 
 
-<b> I am a full Stack Web Developer with a passion for open source and a drive to solve problems. </b> <br />  
+<b> Developer. </b> <br />  
   <br> 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/96344003/214637120-b8b0a72b-b530-489d-a3cf-d257613db0c5.gif" >
