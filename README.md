@@ -27,11 +27,9 @@
 
 ### 🔗Connect with me
 <p align="left">
-<a href="https://twitter.com/SahilSi68634530r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sahil Singh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sahil-singh-6a11b6229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahil Singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ssingh177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahil Singh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15167842/sahil-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15167842" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sahil177a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sahil Singh" height="30" width="40" /></a>
-  <a href="discordapp.com/users/709360514995585044/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sahil Singh" height="30" width="40" /></a>
   </p><br>
   
 ### 🔨 Languages and Tools:
