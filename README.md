@@ -18,7 +18,7 @@
    
 ### 🧐 More About Me:
 
-- 🌱 I’m currently **working on LLMs**. 
+- 🌱 I’m currently **studying**. 
 - 📫 How to reach me:
 <a href="mailto:sahilsingh1221177@gmail.com"> sahilsingh1221177@gmail.com </a>
 - ⚡ Fun fact: *I finished Marvel's SpiderMan complete game in 6 days*.
@@ -51,6 +51,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=SahilSingh177&theme=darkhub&no-bg=true&rank=-C,-B](https://github.com/SahilSingh177/github-profile-trophy))
 
 <br>
-
-[![@darklord's Holopin board](https://holopin.me/darklord)](https://holopin.io/@darklord)
 
